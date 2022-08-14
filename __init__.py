@@ -1,2 +1,1 @@
-from ._utils import *
-from ._tosh import *
+from ._tosha import *
